@@ -2,9 +2,7 @@
 nhanha
 ![vid](https://github.comser-attachments/assets/34d65028-f6d9-45eb-955d-053a0048abda)
 
-![vid](https://github.comser-attachments/assets/34d65028-f6d9-45eb-955d-053a0048abda)
 
-![vid](https://github.comser-attachments/assets/34d65028-f6d9-45eb-955d-053a0048abda)
 
 <html>
   <head>
