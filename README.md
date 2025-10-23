@@ -1,7 +1,12 @@
 # 2-app
 nhanha
-![vid](https://github.comser-attachments/assets/34d65028-f6d9-45eb-955d-053a0048abda)
 
+
+![img1 copy](https://github.com/user-attachments/assets/8060ec36-1d34-44f7-8416-45f90e3941d5)
+
+ <a href="nha.mp4">
+    <img src="img1 copy.jpg" alt=""width=200>
+    </a>
 
 
 <html>
